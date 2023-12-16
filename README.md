@@ -13,15 +13,15 @@ Perangkat lunak "Community Volunteer Hub" adalah sebuah platform yang dirancang 
     4. Sambungkan koneksi ke database dengan mengganti koneksi di file 'koneksi.php'
     5. Jika menggunakan hosting, jangan lupa menggantikan domain yang berada di file .htaccess
     6. Setelah penginstalan selesai, silahkan login melalui akun berikut:
-        #### Admin
-        username: admin123 
-        password: 12345678
-        #### User
-        username: user123
-        password: 12345678
-        #### Komunitas
-        email: aabc@gmail.com
-        password: 12345678
+        # Admin
+            username: admin123 
+            password: 12345678
+        # User
+            username: user123
+            password: 12345678
+        # Komunitas
+            email: aabc@gmail.com
+            password: 12345678
 ### Tim Kami
     1. Muhammad Afif Alfawwaz 4342301015 (Back End Developer)
     2. Ririn Fitri Wulandari 4342301019 (Front End Developer)
